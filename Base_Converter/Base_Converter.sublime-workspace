@@ -1,0 +1,2410 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"to",
+				"toBin"
+			],
+			[
+				"X",
+				"X"
+			],
+			[
+				"in",
+				"include"
+			],
+			[
+				"hex",
+				"hexVals"
+			],
+			[
+				"m",
+				"main	main()"
+			],
+			[
+				"de",
+				"define"
+			],
+			[
+				"co",
+				"cout"
+			],
+			[
+				"usin",
+				"usingt	Using statement (templated)"
+			],
+			[
+				"p",
+				"printf	printf …"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"ri",
+				"right"
+			],
+			[
+				"l",
+				"length"
+			],
+			[
+				"retu",
+				"return"
+			],
+			[
+				"pr",
+				"printLTR"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"con",
+				"construct"
+			],
+			[
+				"v",
+				"vowelsSeq"
+			],
+			[
+				"vo",
+				"vowels"
+			],
+			[
+				"vow",
+				"vowelsSeq"
+			],
+			[
+				"t",
+				"t"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"sub",
+				"substr"
+			],
+			[
+				"com",
+				"compress"
+			],
+			[
+				"D",
+				"Dumper"
+			],
+			[
+				"sym",
+				"symtype"
+			],
+			[
+				"stat",
+				"statement"
+			],
+			[
+				"int",
+				"intval"
+			],
+			[
+				"var",
+				"variable"
+			],
+			[
+				"string",
+				"stringval"
+			],
+			[
+				"ppr",
+				"ppexpr"
+			],
+			[
+				"STRI",
+				"STRINGTOK"
+			],
+			[
+				"NUM",
+				"NUMBERTOK"
+			],
+			[
+				"tok",
+				"tokentype"
+			],
+			[
+				"STR",
+				"STRINGTYPE"
+			],
+			[
+				"rea",
+				"realnum"
+			],
+			[
+				"real",
+				"realval"
+			],
+			[
+				"REAL",
+				"REAL"
+			],
+			[
+				"u",
+				"unaryop"
+			],
+			[
+				"cons",
+				"cons"
+			],
+			[
+				"expr",
+				"exprList"
+			],
+			[
+				"lab",
+				"label"
+			],
+			[
+				"statem",
+				"statements"
+			],
+			[
+				"sta",
+				"statmentList"
+			],
+			[
+				"exp",
+				"expr"
+			],
+			[
+				"rep",
+				"repeatUnitl"
+			],
+			[
+				"CON",
+				"CONSTSYM"
+			],
+			[
+				"type",
+				"typesym"
+			],
+			[
+				"DB_i",
+				"DB_instconst"
+			],
+			[
+				"inst",
+				"instconst"
+			],
+			[
+				"blo",
+				"block"
+			],
+			[
+				"S",
+				"SEMICOLON"
+			],
+			[
+				"last",
+				"lastComma"
+			],
+			[
+				"yyl",
+				"yylval"
+			],
+			[
+				"ins",
+				"install_inum"
+			],
+			[
+				"RE",
+				"RESERVED_BIAS"
+			],
+			[
+				"pri",
+				"errorPrinted"
+			],
+			[
+				"di",
+				"digitsAfterPoint"
+			],
+			[
+				"digi",
+				"digitsAfterPoint"
+			],
+			[
+				"dig",
+				"digitsBeforePoint"
+			],
+			[
+				"found",
+				"foundSigAfterPoint"
+			],
+			[
+				"foundS",
+				"foundSigAfterPoint"
+			],
+			[
+				"fou",
+				"foundPoint"
+			],
+			[
+				"ch",
+				"charval"
+			],
+			[
+				"si",
+				"sign"
+			],
+			[
+				"DIGI",
+				"digitsBeforePoint"
+			],
+			[
+				"dif",
+				"digitsBeforePoint"
+			],
+			[
+				"foun",
+				"foundPoint"
+			],
+			[
+				"digits",
+				"digitsBeforePoint"
+			],
+			[
+				"is",
+				"isOverFlow"
+			],
+			[
+				"pe",
+				"peek2char"
+			],
+			[
+				"st",
+				"state"
+			],
+			[
+				"sim",
+				"simple_ops"
+			],
+			[
+				"get",
+				"getchar"
+			],
+			[
+				"if",
+				"if	If Condition"
+			],
+			[
+				"ski",
+				"skipws"
+			],
+			[
+				"_",
+				"_age"
+			],
+			[
+				"eq",
+				"equals"
+			],
+			[
+				"Conwa",
+				"ConwayCell"
+			],
+			[
+				"r",
+				"return	@return"
+			],
+			[
+				"Ab",
+				"AbstractCell"
+			],
+			[
+				"Abs",
+				"AbstractCell"
+			],
+			[
+				"Fredkin",
+				"FredkinCell"
+			],
+			[
+				"Conway",
+				"ConwayCell"
+			],
+			[
+				"a",
+				"AbstractCell"
+			],
+			[
+				"en",
+				"endl"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Base_Converter.c++",
+			"settings":
+			{
+				"buffer_size": 1969,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Base_Converter.in",
+			"settings":
+			{
+				"buffer_size": 19,
+				"line_ending": "Unix",
+				"name": "B27D"
+			}
+		}
+	],
+	"build_system": "Packages/C++/C++.sublime-build",
+	"command_palette":
+	{
+		"height": 55.0,
+		"selected_items":
+		[
+			[
+				"read",
+				"ReadmePlease"
+			],
+			[
+				"readm",
+				"ReadmePlease"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"git pu",
+				"Git: Push Tags"
+			],
+			[
+				"git co",
+				"Git: Amend Commit"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"add",
+				"Git: Add Selected Hunk"
+			],
+			[
+				"comm",
+				"Git: Quick Commit"
+			],
+			[
+				"todo",
+				"Set Syntax: ToDone"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"git pull",
+				"Git: Pull"
+			],
+			[
+				"git stash",
+				"Git: Stash Apply"
+			],
+			[
+				"git r",
+				"Git: Reset (hard) HEAD"
+			],
+			[
+				"show",
+				"CTags: Show Symbols (file)"
+			],
+			[
+				"ct",
+				"CTags: Show Symbols (all)"
+			],
+			[
+				"packag",
+				"Package Control: List Packages"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"sni",
+				"Snippet: Unary template functor"
+			],
+			[
+				"sn",
+				"Snippet: Vector For Loop"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"ope",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"open",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"c++",
+				"Set Syntax: C++"
+			],
+			[
+				"c",
+				"Code Folding: Unfold All"
+			],
+			[
+				"reg",
+				"Set Syntax: Regular Expression"
+			]
+		],
+		"width": 450.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"exit",
+			"whereami",
+			"pwd",
+			"help()",
+			"help",
+			"print($1)",
+			"print ($1)",
+			"print $1",
+			"pwd",
+			"ls",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/ahmed/Dropbox/Code/C++/Decoder/Decoder.c++",
+		"/home/ahmed/.config/sublime-text-3/Packages/User/c++set.sublime-snippet",
+		"/home/ahmed/Dropbox/Code/C++/Decoder.c++",
+		"/home/ahmed/Dropbox/Code/C++/Decoder.in",
+		"/home/ahmed/Dropbox/Code/C++/Decoder.out",
+		"/home/ahmed/bin/gtest-1.7.0/README",
+		"/home/ahmed/Dropbox/Code/C/BST/BST.out",
+		"/home/ahmed/Dropbox/Code/C/BST/BST.lst",
+		"/home/ahmed/Dropbox/Code/C/BST.c",
+		"/home/ahmed/Dropbox/Code/C/BST.h",
+		"/home/ahmed/Dropbox/Code/Perl/Disemvoweler",
+		"/home/ahmed/Dropbox/Code/Perl/Novel Compression/data.txt",
+		"/home/ahmed/Dropbox/Code/Perl/Novel Compression/Unpacking the Data.pl",
+		"/home/ahmed/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/ahmed/driverneeded.txt",
+		"/home/ahmed/Dropbox/wifi.txt",
+		"/home/ahmed/bin/rtl_92ce_92se_92de_8723ae_88ee_linux_mac80211_0012.0207.2013/readme",
+		"/home/ahmed/tor-browser_en-US/Docs/Vidalia/CREDITS",
+		"/home/ahmed/.ssh/config",
+		"/home/ahmed/bin/wifidriver/readme",
+		"/home/ahmed/Dropbox/Code/Compilers/pasrec.out",
+		"/home/ahmed/Dropbox/Code/Compilers/pasrec.c",
+		"/home/ahmed/Dropbox/Code/Compilers/pasc.sample",
+		"/home/ahmed/Dropbox/Code/Compilers/pasc.pas",
+		"/home/ahmed/Dropbox/Code/Compilers/html/pars1_8h_a2b1b94b48b208aeab21a4b69fefb191c_icgraph.map",
+		"/home/ahmed/Dropbox/Code/Compilers/parse.y",
+		"/home/ahmed/Dropbox/Code/Compilers/triv.c",
+		"/home/ahmed/Dropbox/Code/Compilers/token.h",
+		"/home/ahmed/Dropbox/Code/Compilers/lexan.sample",
+		"/home/ahmed/Dropbox/Code/Compilers/pasrec.s",
+		"/home/ahmed/Dropbox/Code/Compilers/trivb.sample",
+		"/home/ahmed/Dropbox/Code/Compilers/pasrec.sample",
+		"/home/ahmed/Dropbox/Code/Compilers/scantst.sample",
+		"/home/ahmed/Dropbox/Code/Compilers/compiler.sublime-project",
+		"/home/ahmed/Dropbox/Code/Compilers/compiler.sublime-workspace",
+		"/home/ahmed/Dropbox/Code/Compilers/graph1-gcc.s",
+		"/home/ahmed/Dropbox/Code/Compilers/pasrec-gcc.s",
+		"/home/ahmed/Dropbox/Code/Compilers/parse_outs.sh",
+		"/home/ahmed/Dropbox/Code/Compilers/.directory",
+		"/home/ahmed/Dropbox/Code/Compilers/html/globals_enum.html",
+		"/home/ahmed/Dropbox/Code/Compilers/genasm.c",
+		"/home/ahmed/Dropbox/Code/Compilers/html/genasm_8c_a02984e8fc619170d29fa7024bd1f4b94_cgraph.map",
+		"/home/ahmed/Dropbox/Code/Compilers/html/genasm_8h_source.html",
+		"/home/ahmed/Dropbox/Code/Compilers/halves.c",
+		"/home/ahmed/Dropbox/Code/Compilers/codegen.h",
+		"/home/ahmed/Dropbox/Code/Compilers/codegen.lsp",
+		"/home/ahmed/Dropbox/Code/Compilers/html/codegen_8h.html",
+		"/home/ahmed/Dropbox/Code/Compilers/latex/codegen_8h.tex",
+		"/home/ahmed/Dropbox/Code/Compilers/html/codegen_8h_source.html",
+		"/home/ahmed/Dropbox/Code/Compilers/html/codegen_8h__dep__incl.map",
+		"/home/ahmed/Dropbox/Code/Compilers/html/codegen_8h__dep__incl.md5",
+		"/home/ahmed/Dropbox/Code/Compilers/html/codegen_8h_a0cba7f3f4d3932b87251bee0c5b8d92b_cgraph.map",
+		"/home/ahmed/Dropbox/Code/Compilers/html/codegen_8h_a0cba7f3f4d3932b87251bee0c5b8d92b_cgraph.md5",
+		"/home/ahmed/Dropbox/Code/Compilers/html/codegen_8h_a0cba7f3f4d3932b87251bee0c5b8d92b_icgraph.map",
+		"/home/ahmed/Dropbox/Code/Compilers/html/codegen_8h_a0cba7f3f4d3932b87251bee0c5b8d92b_icgraph.md5",
+		"/home/ahmed/Dropbox/Code/Compilers/html/codegen_8h_a472554f77807a11f87aaf91f1484084f_icgraph.map",
+		"/home/ahmed/Dropbox/Code/Compilers/html/codegen_8h_a472554f77807a11f87aaf91f1484084f_icgraph.md5",
+		"/home/ahmed/Dropbox/Code/Compilers/html/codegen_8h_a917a195614411f594a3e3738a8a2ed5f_cgraph.map",
+		"/home/ahmed/Dropbox/Code/Compilers/html/codegen_8h_a917a195614411f594a3e3738a8a2ed5f_cgraph.md5",
+		"/home/ahmed/Dropbox/Code/Compilers/html/codegen_8h_a917a195614411f594a3e3738a8a2ed5f_icgraph.map",
+		"/home/ahmed/Dropbox/Code/Compilers/html/codegen_8h_a917a195614411f594a3e3738a8a2ed5f_icgraph.md5",
+		"/home/ahmed/Dropbox/Code/Compilers/html/codegen_8h_aae5e680d7082c195345a749f7845155e_cgraph.map",
+		"/home/ahmed/Dropbox/Code/Compilers/html/codegen_8h_aae5e680d7082c195345a749f7845155e_cgraph.md5",
+		"/home/ahmed/Dropbox/Code/Compilers/latex/codegen_8h__dep__incl.md5",
+		"/home/ahmed/Dropbox/Code/Compilers/latex/codegen_8h_a0cba7f3f4d3932b87251bee0c5b8d92b_cgraph.md5",
+		"/home/ahmed/Dropbox/Code/Compilers/latex/codegen_8h_a0cba7f3f4d3932b87251bee0c5b8d92b_icgraph.md5",
+		"/home/ahmed/Dropbox/Code/Compilers/latex/codegen_8h_a472554f77807a11f87aaf91f1484084f_icgraph.md5",
+		"/home/ahmed/Dropbox/Code/Compilers/latex/codegen_8h_a917a195614411f594a3e3738a8a2ed5f_cgraph.md5",
+		"/home/ahmed/Dropbox/Code/Compilers/latex/codegen_8h_a917a195614411f594a3e3738a8a2ed5f_icgraph.md5",
+		"/home/ahmed/Dropbox/Code/Compilers/latex/codegen_8h_aae5e680d7082c195345a749f7845155e_cgraph.md5",
+		"/home/ahmed/Dropbox/Code/Compilers/lexanl.c",
+		"/home/ahmed/Dropbox/Code/Compilers/lexandr.c",
+		"/home/ahmed/Dropbox/Code/Compilers/lexanc.c",
+		"/home/ahmed/Dropbox/Code/Compilers/lexan.l",
+		"/home/ahmed/Dropbox/Code/Compilers/lexan.h",
+		"/home/ahmed/Dropbox/Code/Compilers/workingVersionFromGit/codegen.c",
+		"/home/ahmed/Dropbox/Code/Compilers/scantst.pas",
+		"/home/ahmed/Dropbox/Code/Compilers/pars1.h",
+		"/home/ahmed/Dropbox/Code/Compilers/workingVersionFromGit/code.s",
+		"/home/ahmed/Dropbox/Code/Compilers/out",
+		"/home/ahmed/Dropbox/Code/Compilers/triv.s",
+		"/home/ahmed/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/ahmed/Dropbox/Code/Compilers/build.sh",
+		"/home/ahmed/Dropbox/Code/Compilers/symtab.c",
+		"/home/ahmed/Dropbox/Code/Compilers/pprint.c",
+		"/home/ahmed/Dropbox/Code/Compilers/trivb.tree",
+		"/home/ahmed/Dropbox/Code/Compilers/exhaust-yacc.pas",
+		"/home/ahmed/Dropbox/Code/Compilers/html/symtab_8h_source.html",
+		"/home/ahmed/Dropbox/Code/Compilers/codgen.c",
+		"/home/ahmed/Dropbox/Code/Compilers/y.output",
+		"/home/ahmed/Dropbox/Code/Compilers/commentsinlex.txt",
+		"/home/ahmed/Dropbox/Code/Compilers/parse.h",
+		"/home/ahmed/Dropbox/Code/Compilers/parser",
+		"/home/ahmed/Dropbox/Code/Compilers/pars1.y",
+		"/home/ahmed/Dropbox/Code/Compilers/patex.lsp",
+		"/home/ahmed/Dropbox/Code/Compilers/.gitignore",
+		"/home/ahmed/.config/sublime-text-3/Packages/SideBarEnhancements/readme.md",
+		"/home/ahmed/Dropbox/Code/Compilers/pars1.myresult",
+		"/u/aj326/projects/Compilers/.tags",
+		"/u/aj326/projects/Compilers/trivb.result",
+		"/u/aj326/projects/Compilers/triv.pas",
+		"/u/aj326/projects/Compilers/exhaust-yacc.pas",
+		"/u/aj326/projects/Compilers/graph1.lex",
+		"/u/aj326/projects/Compilers/scantst.sample",
+		"/u/aj326/projects/Compilers/graph1.pas",
+		"/u/aj326/projects/Compilers/scantst.pas",
+		"/u/aj326/projects/Compilers/README.txt",
+		"/u/aj326/projects/Compilers/lexasu.l",
+		"/u/aj326/projects/Compilers/commentsinlex.txt",
+		"/u/aj326/projects/Compilers/lexan.l",
+		"/u/aj326/projects/Compilers/lexanc.c",
+		"/u/aj326/projects/Compilers/lexandr.c",
+		"/u/aj326/projects/Compilers/scanner.c",
+		"/u/aj326/projects/Compilers/temp.txt",
+		"/u/aj326/projects/Compilers/lex2.l",
+		"/u/aj326/projects/Compilers/lex1.c",
+		"/u/aj326/projects/Compilers/printtoken.c",
+		"/u/aj326/projects/Compilers/out",
+		"/u/aj326/projects/Compilers/lex1.pas",
+		"/u/aj326/projects/Compilers/README",
+		"/u/aj326/projects/Compilers/delANDops.pas",
+		"/u/aj326/projects/Compilers/oldTest.pas",
+		"/u/aj326/projects/cs375/codgen.c",
+		"/u/aj326/projects/cs375/lex1.c",
+		"/u/aj326/projects/cs375/lexan.h",
+		"/u/aj326/projects/cs375/printtoken.c",
+		"/u/aj326/projects/cs375/README.nl",
+		"/u/aj326/projects/cs375/driver.c"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 113.0,
+		"where_history":
+		[
+			"<lexanc.c>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"double",
+			"left",
+			"node",
+			"talloc",
+			"$t",
+			"t",
+			"==",
+			"eq",
+			"findid",
+			"res->basicdt = ",
+			"tok->datatype = typ->basicdt",
+			"findtype",
+			"insertfn",
+			"findtype",
+			"makefuncall",
+			"find",
+			"variable",
+			"MAKING",
+			"makere",
+			"consttok",
+			"idtok",
+			"sym",
+			"consttok",
+			"not",
+			"variable",
+			"statments",
+			"idtok",
+			"findtype",
+			"typetok",
+			"idlist",
+			"const",
+			";\n",
+			"			-",
+			"Parse ",
+			"([\\w\\.]+)\\n",
+			"lastComma",
+			"NUMBER",
+			"if        {return(maketoken(RESERVED, IF));}",
+			"(\\w+) - RESERVED_BIAS",
+			"\\w+ - RESERVED_BIAS",
+			"\\\"(.+)\\\",",
+			"\\\"(.+)\\\"",
+			"END",
+			"{return(maketoken(RESERVED, END- RESERVED_BIAS));}",
+			"\\\"(.+)\\\"",
+			"printf",
+			"r",
+			"tokentype:  5  type:     0            1\ntokentype:  1  which:    8           ..\ntokentype:  5  type:     0           10\ntokentype:  5  type:     1 3.141590e+00\ntokentype:  5  type:     1 3.141593e+00\ntokentype:  5  type:     1 3.141593e+00\ntokentype:  5  type:     1 3.141593e+00\ntokentype:  5  type:     1 3.141593e+00\ntokentype:  5  type:     1 3.141592e+06\ntokentype:  5  type:     1 3.141593e+00\ntokentype:  5  type:     1 3.141593e+00\ntokentype:  5  type:     1 3.141593e+00\ntokentype:  5  type:     1 3.141593e+00\ntokentype:  5  type:     1 3.141593e+00\ntokentype:  5  type:     1 3.141593e+00",
+			"printf",
+			"tokentype:  5  type:     0            1\ntokentype:  1  which:    8           ..\ntokentype:  5  type:     0           10\ntokentype:  5  type:     1 3.141590e+00\ntokentype:  5  type:     1 3.141593e+00\ntokentype:  5  type:     1 3.141593e+00\ntokentype:  5  type:     1 3.141593e+00\ntokentype:  5  type:     1 3.141593e+00\ntokentype:  5  type:     1 3.140000e+00\ntokentype:  5  type:     0            1\ntokentype:  1  which:    8           ..\ntokentype:  5  type:     0           10\ntokentype:  5  type:     1 3.141590e+00\ntokentype:  5  type:     1 3.141593e+00\ntokentype:  5  type:     1 3.141593e+00\ntokentype:  5  type:     1 3.141593e+00\ntokentype:  5  type:     1 3.141593e+00\ntokentype:  5  type:     1 3.141593e+06\ntokentype:  5  type:     1 3.141593e+00",
+			"numprintf(\"number = %f\\n\", num);",
+			"num",
+			"l",
+			"1.000000e+03",
+			"state",
+			"c ==",
+			"case",
+			"        case 6:\n",
+			"case",
+			":\n",
+			"        case 0:\n",
+			"case",
+			"case (\\d)",
+			"case \\d",
+			"          return tok;\n",
+			"          c = getchar();\n",
+			"string",
+			"\"+-*/:=<>^.,;()[]{}\";",
+			"resprnt",
+			"reserved",
+			"RESERVED",
+			"reserved",
+			",",
+			"\\s+",
+			",    ",
+			"       ",
+			"of           ",
+			"       ",
+			"end",
+			"case        end",
+			"        ",
+			"       ",
+			"(\\s+)",
+			"       ",
+			"\\{((\\w+)(\\s+)(\\w+))+\\}",
+			"follow",
+			"^EOF",
+			"^\"EOF",
+			"^\"EOF ",
+			"^\"EOF \"",
+			"^EOF ",
+			"^EOF$",
+			"^EOF",
+			"EOF",
+			"eof",
+			"eo",
+			".pas",
+			"formatAge",
+			"ageFormat",
+			"formatAge",
+			"char age",
+			"x.equals(y)",
+			"x",
+			"_isAlive",
+			"endl",
+			"FredkinCell ():",
+			"FredkinCell",
+			"AbstractCell",
+			"pane",
+			"/**",
+			"col",
+			"ctrl+alt",
+			"ConwayCell",
+			"ConwayCell_h",
+			"AbstractCell_h",
+			"0\n",
+			"ConwayCell",
+			"virtual",
+			"v",
+			"virtual",
+			"clone",
+			"AbstractCell::",
+			"AbstractCell",
+			"Circle",
+			"Shape",
+			"AbstractShape",
+			"!=",
+			"_y"
+		],
+		"highlight": true,
+		"in_selection": true,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"root",
+			"idtok",
+			"statements",
+			"consttok",
+			"idtok",
+			"",
+			"$1 ",
+			"$1",
+			"",
+			"$1",
+			"NIL",
+			"IF",
+			"{return(maketoken(RESERVED, END - RESERVED_BIAS));}",
+			"$1",
+			"//printf",
+			"\",\"",
+			",",
+			"\"$1\",\"$3\"",
+			"int age",
+			"FredkinCell",
+			"",
+			"Cell",
+			"AbstractCell",
+			"",
+			"_isAlive",
+			"bool _isAlive",
+			"AbstractCell",
+			"std::cout",
+			"//std::cout",
+			"std::cout",
+			"//std::cout"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Base_Converter.c++",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1969,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1969,
+								1969
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"WordCountShouldRun": true,
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close"
+							],
+							"highlight_line": true,
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"vintage":
+							{
+								"_vintageous_glue_until_normal_mode": false,
+								"action": null,
+								"action_count": "",
+								"capture_register": false,
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"normal_insert_count": "1",
+								"partial_sequence": "",
+								"register": "\"",
+								"repeat_data":
+								[
+									"native",
+									[
+										"sequence",
+										{
+											"commands":
+											[
+												[
+													"move_to",
+													{
+														"extend": false,
+														"to": "eol"
+													}
+												],
+												[
+													"left_delete",
+													null
+												],
+												[
+													"left_delete",
+													null
+												],
+												[
+													"left_delete",
+													null
+												],
+												[
+													"left_delete",
+													null
+												],
+												[
+													"left_delete",
+													null
+												],
+												[
+													"left_delete",
+													null
+												],
+												[
+													"left_delete",
+													null
+												],
+												[
+													"left_delete",
+													null
+												],
+												[
+													"left_delete",
+													null
+												],
+												[
+													"insert",
+													{
+														"characters": "int"
+													}
+												],
+												[
+													"insert",
+													{
+														"characters": " r"
+													}
+												],
+												[
+													"insert",
+													{
+														"characters": "=0;"
+													}
+												],
+												[
+													"insert",
+													{
+														"characters": "\n"
+													}
+												],
+												[
+													"insert",
+													{
+														"characters": "short"
+													}
+												],
+												[
+													"insert",
+													{
+														"characters": " int"
+													}
+												],
+												[
+													"insert",
+													{
+														"characters": " bit"
+													}
+												],
+												[
+													"insert",
+													{
+														"characters": " ="
+													}
+												],
+												[
+													"insert",
+													{
+														"characters": " 0'"
+													}
+												],
+												[
+													"left_delete",
+													null
+												],
+												[
+													"insert",
+													{
+														"characters": ";"
+													}
+												],
+												[
+													"insert",
+													{
+														"characters": "\n"
+													}
+												],
+												[
+													"insert",
+													{
+														"characters": "while"
+													}
+												],
+												[
+													"insert_snippet",
+													{
+														"contents": "($0)"
+													}
+												],
+												[
+													"insert",
+													{
+														"characters": "n"
+													}
+												],
+												[
+													"move_to",
+													{
+														"extend": false,
+														"to": "eol"
+													}
+												],
+												[
+													"insert",
+													{
+														"characters": "\n"
+													}
+												],
+												[
+													"insert_snippet",
+													{
+														"contents": "{$0}"
+													}
+												],
+												[
+													"run_macro_file",
+													{
+														"file": "res://Packages/Default/Add Line in Braces.sublime-macro"
+													}
+												],
+												[
+													"move",
+													{
+														"by": "lines",
+														"forward": false
+													}
+												],
+												[
+													"move",
+													{
+														"by": "lines",
+														"forward": false
+													}
+												],
+												[
+													"move",
+													{
+														"by": "lines",
+														"forward": false
+													}
+												],
+												[
+													"move",
+													{
+														"by": "lines",
+														"forward": true
+													}
+												],
+												[
+													"move",
+													{
+														"by": "characters",
+														"forward": true
+													}
+												],
+												[
+													"move",
+													{
+														"by": "characters",
+														"forward": true
+													}
+												],
+												[
+													"move",
+													{
+														"by": "characters",
+														"forward": true
+													}
+												],
+												[
+													"insert",
+													{
+														"characters": " &"
+													}
+												],
+												[
+													"insert",
+													{
+														"characters": "&"
+													}
+												],
+												[
+													"insert",
+													{
+														"characters": " bit"
+													}
+												],
+												[
+													"insert",
+													{
+														"characters": " <"
+													}
+												],
+												[
+													"insert",
+													{
+														"characters": " 32"
+													}
+												],
+												[
+													"move",
+													{
+														"by": "lines",
+														"forward": true
+													}
+												],
+												[
+													"move",
+													{
+														"by": "lines",
+														"forward": true
+													}
+												],
+												[
+													"move",
+													{
+														"by": "lines",
+														"forward": true
+													}
+												],
+												[
+													"move",
+													{
+														"by": "lines",
+														"forward": true
+													}
+												],
+												[
+													"move",
+													{
+														"by": "lines",
+														"forward": true
+													}
+												],
+												[
+													"move",
+													{
+														"by": "lines",
+														"forward": true
+													}
+												],
+												[
+													"move",
+													{
+														"by": "lines",
+														"forward": true
+													}
+												],
+												[
+													"move",
+													{
+														"by": "lines",
+														"forward": true
+													}
+												],
+												[
+													"move",
+													{
+														"by": "lines",
+														"forward": true
+													}
+												],
+												[
+													"move",
+													{
+														"by": "characters",
+														"forward": false
+													}
+												],
+												[
+													"insert",
+													{
+														"characters": " &"
+													}
+												],
+												[
+													"insert",
+													{
+														"characters": " bit"
+													}
+												],
+												[
+													"insert",
+													{
+														"characters": " <"
+													}
+												],
+												[
+													"insert",
+													{
+														"characters": " 32"
+													}
+												],
+												[
+													"move",
+													{
+														"by": "lines",
+														"forward": false
+													}
+												],
+												[
+													"move",
+													{
+														"by": "lines",
+														"forward": false
+													}
+												],
+												[
+													"move",
+													{
+														"by": "lines",
+														"forward": false
+													}
+												],
+												[
+													"move",
+													{
+														"by": "lines",
+														"forward": false
+													}
+												],
+												[
+													"move",
+													{
+														"by": "lines",
+														"forward": false
+													}
+												],
+												[
+													"move",
+													{
+														"by": "lines",
+														"forward": false
+													}
+												],
+												[
+													"move",
+													{
+														"by": "lines",
+														"forward": false
+													}
+												],
+												[
+													"reindent",
+													null
+												],
+												[
+													"insert",
+													{
+														"characters": "r+="
+													}
+												],
+												[
+													"insert",
+													{
+														"characters": "po"
+													}
+												],
+												[
+													"insert_completion",
+													{
+														"completion": "pow",
+														"snippet": "pow",
+														"trigger": "pow"
+													}
+												],
+												[
+													"insert_snippet",
+													{
+														"contents": "($0)"
+													}
+												],
+												[
+													"insert",
+													{
+														"characters": "2,bu"
+													}
+												],
+												[
+													"left_delete",
+													null
+												],
+												[
+													"insert",
+													{
+														"characters": "it__"
+													}
+												],
+												[
+													"left_delete",
+													null
+												],
+												[
+													"left_delete",
+													null
+												],
+												[
+													"insert",
+													{
+														"characters": "++"
+													}
+												],
+												[
+													"move",
+													{
+														"by": "lines",
+														"forward": true
+													}
+												],
+												[
+													"move",
+													{
+														"by": "lines",
+														"forward": true
+													}
+												],
+												[
+													"move",
+													{
+														"by": "lines",
+														"forward": true
+													}
+												],
+												[
+													"move",
+													{
+														"by": "lines",
+														"forward": true
+													}
+												],
+												[
+													"move",
+													{
+														"by": "lines",
+														"forward": true
+													}
+												],
+												[
+													"move",
+													{
+														"by": "lines",
+														"forward": true
+													}
+												],
+												[
+													"move",
+													{
+														"by": "lines",
+														"forward": true
+													}
+												],
+												[
+													"move",
+													{
+														"by": "characters",
+														"forward": false
+													}
+												],
+												[
+													"move",
+													{
+														"by": "characters",
+														"forward": false
+													}
+												],
+												[
+													"move",
+													{
+														"by": "characters",
+														"forward": false
+													}
+												],
+												[
+													"move",
+													{
+														"by": "characters",
+														"forward": false
+													}
+												],
+												[
+													"move",
+													{
+														"by": "characters",
+														"forward": false
+													}
+												],
+												[
+													"move",
+													{
+														"by": "characters",
+														"forward": false
+													}
+												],
+												[
+													"move",
+													{
+														"by": "characters",
+														"forward": false
+													}
+												],
+												[
+													"move",
+													{
+														"by": "characters",
+														"forward": false
+													}
+												],
+												[
+													"insert",
+													{
+														"characters": "&"
+													}
+												],
+												[
+													"move",
+													{
+														"by": "characters",
+														"forward": true
+													}
+												],
+												[
+													"move",
+													{
+														"by": "lines",
+														"forward": false
+													}
+												],
+												[
+													"move",
+													{
+														"by": "lines",
+														"forward": false
+													}
+												],
+												[
+													"move",
+													{
+														"by": "lines",
+														"forward": false
+													}
+												],
+												[
+													"move",
+													{
+														"by": "lines",
+														"forward": false
+													}
+												],
+												[
+													"move",
+													{
+														"by": "lines",
+														"forward": false
+													}
+												],
+												[
+													"move",
+													{
+														"by": "lines",
+														"forward": false
+													}
+												],
+												[
+													"move",
+													{
+														"by": "lines",
+														"forward": false
+													}
+												],
+												[
+													"move",
+													{
+														"by": "characters",
+														"forward": true
+													}
+												],
+												[
+													"move",
+													{
+														"by": "characters",
+														"forward": true
+													}
+												],
+												[
+													"move",
+													{
+														"by": "characters",
+														"forward": true
+													}
+												],
+												[
+													"move",
+													{
+														"by": "characters",
+														"forward": true
+													}
+												],
+												[
+													"move",
+													{
+														"by": "characters",
+														"forward": true
+													}
+												],
+												[
+													"move",
+													{
+														"by": "characters",
+														"forward": true
+													}
+												],
+												[
+													"move",
+													{
+														"by": "characters",
+														"forward": true
+													}
+												],
+												[
+													"insert",
+													{
+														"characters": " "
+													}
+												],
+												[
+													"insert",
+													{
+														"characters": "*"
+													}
+												],
+												[
+													"insert",
+													{
+														"characters": " "
+													}
+												],
+												[
+													"insert_snippet",
+													{
+														"contents": "($0)"
+													}
+												],
+												[
+													"insert",
+													{
+														"characters": "n&1"
+													}
+												],
+												[
+													"move_to",
+													{
+														"extend": false,
+														"to": "eol"
+													}
+												],
+												[
+													"insert",
+													{
+														"characters": ";"
+													}
+												],
+												[
+													"insert",
+													{
+														"characters": "\n"
+													}
+												],
+												[
+													"insert",
+													{
+														"characters": "n>>"
+													}
+												],
+												[
+													"insert",
+													{
+														"characters": "="
+													}
+												],
+												[
+													"insert",
+													{
+														"characters": "1;"
+													}
+												],
+												[
+													"move",
+													{
+														"by": "lines",
+														"forward": true
+													}
+												],
+												[
+													"insert",
+													{
+														"characters": "\n"
+													}
+												],
+												[
+													"insert",
+													{
+														"characters": "return"
+													}
+												],
+												[
+													"insert",
+													{
+														"characters": " "
+													}
+												],
+												[
+													"insert",
+													{
+														"characters": "r;"
+													}
+												],
+												[
+													"insert",
+													{
+														"characters": "int"
+													}
+												],
+												[
+													"find_under_expand",
+													null
+												],
+												[
+													"right_delete",
+													null
+												],
+												[
+													"insert",
+													{
+														"characters": "int"
+													}
+												],
+												[
+													"copy",
+													null
+												],
+												[
+													"move_to",
+													{
+														"extend": false,
+														"to": "eol"
+													}
+												],
+												[
+													"move",
+													{
+														"by": "lines",
+														"forward": false
+													}
+												],
+												[
+													"insert",
+													{
+														"characters": "\n"
+													}
+												],
+												[
+													"paste",
+													null
+												],
+												[
+													"move",
+													{
+														"by": "lines",
+														"forward": false
+													}
+												],
+												[
+													"move_to",
+													{
+														"extend": false,
+														"to": "eol"
+													}
+												],
+												[
+													"move_to",
+													{
+														"extend": false,
+														"to": "bol"
+													}
+												],
+												[
+													"left_delete",
+													null
+												],
+												[
+													"left_delete",
+													null
+												],
+												[
+													"insert",
+													{
+														"characters": "	"
+													}
+												],
+												[
+													"move",
+													{
+														"by": "characters",
+														"forward": true
+													}
+												],
+												[
+													"move",
+													{
+														"by": "characters",
+														"forward": true
+													}
+												],
+												[
+													"move",
+													{
+														"by": "characters",
+														"forward": true
+													}
+												],
+												[
+													"move",
+													{
+														"by": "characters",
+														"forward": true
+													}
+												],
+												[
+													"move",
+													{
+														"by": "characters",
+														"forward": true
+													}
+												],
+												[
+													"move",
+													{
+														"by": "characters",
+														"forward": true
+													}
+												],
+												[
+													"move",
+													{
+														"by": "characters",
+														"forward": true
+													}
+												],
+												[
+													"move",
+													{
+														"by": "characters",
+														"forward": true
+													}
+												],
+												[
+													"move",
+													{
+														"by": "characters",
+														"forward": true
+													}
+												],
+												[
+													"move",
+													{
+														"by": "characters",
+														"forward": true
+													}
+												],
+												[
+													"move",
+													{
+														"by": "characters",
+														"forward": true
+													}
+												],
+												[
+													"move",
+													{
+														"by": "characters",
+														"forward": true
+													}
+												],
+												[
+													"move",
+													{
+														"by": "characters",
+														"forward": true
+													}
+												],
+												[
+													"move",
+													{
+														"by": "characters",
+														"forward": true
+													}
+												],
+												[
+													"move",
+													{
+														"by": "characters",
+														"forward": true
+													}
+												],
+												[
+													"left_delete",
+													null
+												],
+												[
+													"left_delete",
+													null
+												],
+												[
+													"left_delete",
+													null
+												],
+												[
+													"left_delete",
+													null
+												],
+												[
+													"left_delete",
+													null
+												],
+												[
+													"left_delete",
+													null
+												],
+												[
+													"left_delete",
+													null
+												],
+												[
+													"left_delete",
+													null
+												],
+												[
+													"move",
+													{
+														"by": "characters",
+														"forward": true
+													}
+												],
+												[
+													"move",
+													{
+														"by": "characters",
+														"forward": true
+													}
+												],
+												[
+													"move",
+													{
+														"by": "characters",
+														"forward": true
+													}
+												],
+												[
+													"move",
+													{
+														"by": "characters",
+														"forward": true
+													}
+												],
+												[
+													"move",
+													{
+														"by": "characters",
+														"forward": true
+													}
+												],
+												[
+													"move",
+													{
+														"by": "characters",
+														"forward": true
+													}
+												],
+												[
+													"left_delete",
+													null
+												],
+												[
+													"left_delete",
+													null
+												],
+												[
+													"left_delete",
+													null
+												],
+												[
+													"left_delete",
+													null
+												],
+												[
+													"left_delete",
+													null
+												],
+												[
+													"insert",
+													{
+														"characters": "bitr"
+													}
+												],
+												[
+													"left_delete",
+													null
+												],
+												[
+													"left_delete",
+													null
+												],
+												[
+													"insert",
+													{
+														"characters": "nTo"
+													}
+												],
+												[
+													"move",
+													{
+														"by": "characters",
+														"forward": true
+													}
+												],
+												[
+													"move",
+													{
+														"by": "characters",
+														"forward": true
+													}
+												],
+												[
+													"move",
+													{
+														"by": "characters",
+														"forward": true
+													}
+												],
+												[
+													"move",
+													{
+														"by": "characters",
+														"forward": true
+													}
+												],
+												[
+													"move",
+													{
+														"by": "characters",
+														"forward": true
+													}
+												],
+												[
+													"left_delete",
+													null
+												],
+												[
+													"left_delete",
+													null
+												],
+												[
+													"left_delete",
+													null
+												],
+												[
+													"left_delete",
+													null
+												]
+											]
+										}
+									],
+									null,
+									null
+								],
+								"sequence": "",
+								"xpos": 0
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "Base_Converter.in",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 19,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								17,
+								17
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"WordCountShouldRun": true,
+							"auto_name": "B27D",
+							"bh_regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"vintage":
+							{
+								"_vintageous_glue_until_normal_mode": false,
+								"_vintageous_gluing_sequence": false,
+								"_vintageous_non_interactive": false,
+								"action": null,
+								"action_count": "",
+								"capture_register": false,
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"normal_insert_count": "1",
+								"partial_sequence": "",
+								"register": "\"",
+								"repeat_data":
+								[
+									"native",
+									[
+										"sequence",
+										{
+											"commands":
+											[
+												[
+													"insert",
+													{
+														"characters": "27"
+													}
+												],
+												[
+													"insert",
+													{
+														"characters": "\n"
+													}
+												],
+												[
+													"insert",
+													{
+														"characters": "1234"
+													}
+												],
+												[
+													"insert",
+													{
+														"characters": "\n"
+													}
+												],
+												[
+													"left_delete",
+													null
+												]
+											]
+										}
+									],
+									null,
+									null
+								],
+								"sequence": "",
+								"xpos": 2
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			],
+			[
+				2,
+				0,
+				3,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.469285714286,
+			0.66,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 87.0
+	},
+	"output.find_results":
+	{
+		"height": 120.0
+	},
+	"output.git":
+	{
+		"height": 88.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 120.0
+	},
+	"project": "Base_Converter.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"pas",
+				"pasrec.s"
+			],
+			[
+				"trivb.s",
+				"trivb.s"
+			],
+			[
+				".s",
+				"graph1.s"
+			],
+			[
+				"lex",
+				"lexanc.c"
+			],
+			[
+				"symta",
+				"symtab.c"
+			],
+			[
+				"code",
+				"workingVersionFromGit/codegen.c"
+			],
+			[
+				".sh",
+				"parse_outs.sh"
+			],
+			[
+				".out",
+				"pasrec.out"
+			],
+			[
+				"parse.y",
+				"parse.y"
+			],
+			[
+				"",
+				".tags"
+			],
+			[
+				"scant",
+				"scantst.pas"
+			],
+			[
+				".pas",
+				"graph1.pas"
+			],
+			[
+				"lexan",
+				"lexan.h"
+			],
+			[
+				"to",
+				"token.h"
+			],
+			[
+				"abs",
+				"AbstractCell.h"
+			],
+			[
+				"l",
+				"Life.h"
+			],
+			[
+				"han",
+				"Handle.h"
+			],
+			[
+				"life",
+				"life.sublime-project"
+			],
+			[
+				"h",
+				"Handle.h"
+			],
+			[
+				".h",
+				"Cell.h"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 75.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 2,
+	"settings":
+	{
+		"_vintageous_reset_during_init": true,
+		"vintage":
+		{
+			"_cmdline_cd": "/opt/sublime_text"
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 200.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
